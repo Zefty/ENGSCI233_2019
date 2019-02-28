@@ -1,6 +1,6 @@
-# Computational Techniques
+# ENGSCI233: Computational Techniques and Computer Systems
 
-These Jupyter notebooks introduce key Computational Techniques concepts:
+These Jupyter notebooks introduce key Algorithmic and Software Design concepts:
 - Error: floating point errors (rounding, representation, subtraction), convergence.
 - Quality control: code requirements, unit testing, version control.
 - Performance: big O complexity, scaling and parallel speed-up, code profiling.
@@ -8,7 +8,7 @@ These Jupyter notebooks introduce key Computational Techniques concepts:
 - Iteration: ODE integration methods (Euler, improved Euler, backward Euler). Concepts of convergence, accuracy and stiffness.
 - Data: file I/O, linked lists.
 - Combinatorics: sorting, searching, Dijkstra's shortest path algorithm.
-- APIs: 
+- APIs: design and OpenStreetMap example
 
 ## Getting Started
 
